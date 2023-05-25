@@ -15,9 +15,9 @@
             $numero = $_GET["numero"];
             $antecessor = $numero - 1;
             $sucessor = $numero + 1;
-            echo "O numero escolhido foi <strong>$numero</strong></br>";
-            echo "O seu antecessor é <strong>$antecessor</strong></br>";
-            echo "O numero escolhido foi <strong>$sucessor</strong></br>";
+            echo "O numero escolhido foi <strong>$numero</strong></br></br>";
+            echo "O seu antecessor é <strong>$antecessor</strong></br></br>";
+            echo "O seu sucessor é <strong>$sucessor</strong></br></br>";
         ?>
         <p>
             <a href="javascript:history.go(-1)">
