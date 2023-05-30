@@ -1,4 +1,4 @@
-Antecessor e Sucessor
+# Antecessor e Sucessor
 
 
 > Programa criado em ```HTML``` ```CSS``` ```PHP``` com o intuito de praticar e desenvolver conhecimento nas tecnologias.
